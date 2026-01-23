@@ -1,29 +1,3 @@
-
-
-## ✅ Answer Check
-
-### ✔ Q1: Integers
-
-Correct answers: **a) −7, b) 0, d) 3**
-👉 You nailed it.
-
----
-
-### ✔ Q2: Rational Numbers
-
-Correct answers: **a) 0.75, c) −2/3, d) 7**
-✔ Remember: any integer is also rational.
-
----
-
-### ✔ Q3: Ascending Order
-
-Correct order:
-**−5 < −2 < 0 < 3 < 4**
-Perfect 👌
-
----
-
 # 📘 Aptitude – Lesson 2
 
 ## Even–Odd, Prime–Composite (Absolute Beginner)

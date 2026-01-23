@@ -1,4 +1,3 @@
-
 # 📘 Aptitude – Lesson 1
 
 ## Number System Basics (Absolute Beginner Level)
@@ -165,7 +164,3 @@ d) 7
 
 ---
 
-
-👉 **Your task:**
-Reply with answers for **Q1, Q2, Q3**
-After that, we move to Lesson 2 🔥
