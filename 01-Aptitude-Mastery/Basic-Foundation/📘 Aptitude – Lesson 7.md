@@ -248,3 +248,96 @@ A value is increased by **20%** and then decreased by **10%**.
 ---
 
 ## Solution :
+
+Nice attempt, Pratik 👍
+You’ve got the **ideas**, just a few **calculation-direction slips**. That’s normal at this stage. Let’s correct them **calmly** and make them interview-perfect.
+
+---
+
+## ✅ Answer Review (With Fixes)
+
+### 🔹 Q1: Conversion
+
+**a) 12.5% → fraction**
+Your answer: **1/8** ✅ Correct
+
+**b) 0.25 → percentage**
+Your answer: **25%** ✅ Correct
+
+✔ Q1 is **100% right**
+
+---
+
+### 🔹 Q2: Find the value
+
+**a) 30% of 240**
+You wrote: **72%** ❌
+👉 Careful: question asks for **value**, not percentage.
+
+Correct method:
+[
+30% \text{ of } 240 = \frac{30}{100} \times 240 = 72
+]
+
+✅ **Correct answer: 72**
+
+---
+
+**b) 15% of 60**
+You wrote: **9%** ❌
+Again, value is needed.
+
+[
+15% \text{ of } 60 = \frac{15}{100} \times 60 = 9
+]
+
+✅ **Correct answer: 9**
+
+📌 **Big Rule to Lock 🔒**
+
+* “% of” → final answer is a **number**, not a percent
+
+---
+
+### 🔹 Q3: Percentage Increase
+
+Price changes from **500 → 650**
+
+Increase = 150
+
+[
+\frac{150}{500} \times 100 = 30%
+]
+
+✅ **Your answer: 30% — Correct**
+
+---
+
+### 🔹 Q4: Successive Change (Interview Level)
+
+Increase by **20%**, then decrease by **10%**
+
+Let original value = 100
+After 20% increase → 120
+After 10% decrease → 108
+
+Net change = **+8**
+
+[
+\Rightarrow 8% \text{ profit}
+]
+
+✅ **Your answer: 8% — Correct**
+
+---
+
+## 🧠 Final Scorecard
+
+| Question | Result                            |
+| -------- | --------------------------------- |
+| Q1       | ✅ Perfect                         |
+| Q2       | ⚠️ Concept right, wording mistake |
+| Q3       | ✅ Perfect                         |
+| Q4       | ✅ Perfect                         |
+
+---
