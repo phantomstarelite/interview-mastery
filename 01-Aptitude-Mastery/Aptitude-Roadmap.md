@@ -20,8 +20,7 @@
 ### 🧮 Phase 1: Quantitative Aptitude (Core)
 
 These are asked in **almost every company**.
-
-#### 1️⃣ Arithmetic (Most Important)
+ 
 
 * Percentages
 * Profit & Loss
