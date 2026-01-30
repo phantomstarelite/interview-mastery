@@ -8,159 +8,144 @@
 
 ## 🧠 What is Aptitude?
 
-Aptitude is **not maths**, it is **logical use of basic maths**.
+Aptitude is **not advanced mathematics**.  
+It is the **logical use of basic mathematics**.
 
-You don’t need advanced formulas — you need:
-
-* Clear basics
-* Calm thinking
-* Step-by-step approach
+You don’t need complex formulas — you need:
+- Clear basics  
+- Calm thinking  
+- Step-by-step approach  
 
 ---
 
 ## 🧱 Step 1: Types of Numbers (VERY IMPORTANT)
 
-![Image](https://i.pinimg.com/736x/83/bd/ce/83bdceb5badc884cd1cc284f22a2e677.jpg)
+![Number System](https://i.pinimg.com/736x/83/bd/ce/83bdceb5badc884cd1cc284f22a2e677.jpg)
+![Natural & Whole Numbers](https://www.geogebra.org/resource/gzmmzj5q/IW8fpMFprJarLKdN/material-gzmmzj5q.png)
+![Integers on Number Line](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/integers-on-number-line-1636353092.png)
 
-![Image](https://www.geogebra.org/resource/gzmmzj5q/IW8fpMFprJarLKdN/material-gzmmzj5q.png)
-
-![Image](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/integers-on-number-line-1636353092.png)
+---
 
 ### 1️⃣ Natural Numbers (N)
 
-➡ Counting numbers
+➡ Counting numbers  
 **1, 2, 3, 4, 5, …**
 
-Example:
+**Examples:**
+- Number of students = 30  
+- Number of apples = 5  
 
-* Number of students = 30
-* Number of apples = 5
-
-❌ 0 is NOT included
+❌ **0 is NOT included**
 
 ---
 
 ### 2️⃣ Whole Numbers (W)
 
-➡ Natural numbers + 0
+➡ Natural numbers + 0  
 **0, 1, 2, 3, 4, …**
 
-Example:
-
-* 0 balance in account
-* 0 marks possible
+**Examples:**
+- 0 balance in an account  
+- 0 marks possible  
 
 ---
 
 ### 3️⃣ Integers (Z)
 
-➡ Whole numbers + negative numbers
+➡ Whole numbers + negative numbers  
 **…, −3, −2, −1, 0, 1, 2, 3, …**
 
-Example:
+**Examples:**
+- Temperature: −5°C  
+- Elevator floors: −2, −1, 0, 1  
 
-* Temperature: −5°C
-* Elevator floors: −2, −1, 0, 1
-
-📌 Interview tip:
-**Negative numbers exist only in integers**
+📌 **Interview Tip:**  
+Negative numbers exist **only in integers**.
 
 ---
 
 ### 4️⃣ Rational Numbers (Q)
 
-➡ Numbers that can be written as a fraction
+➡ Numbers that can be written in the form:
 
-[
-\frac{p}{q}, \quad q \neq 0
-]
+p / q (where q ≠ 0)
 
-Examples:
 
-* 1/2
-* −3/4
-* 5 = 5/1
-* 0.25 = 1/4
+**Examples:**
+- 1/2  
+- −3/4  
+- 5 = 5/1  
+- 0.25 = 1/4  
 
-✔ Decimals that **end or repeat** are rational
+✔ Decimals that **terminate or repeat** are rational.
 
 ---
 
 ### 5️⃣ Irrational Numbers
 
-➡ Cannot be written as fraction
-➡ Decimal goes **forever without repeating**
+➡ Cannot be written as a fraction  
+➡ Decimal expansion is **non-terminating and non-repeating**
 
-Examples:
-
-* √2 = 1.4142135…
-* π = 3.14159…
+**Examples:**
+- √2 = 1.4142135…  
+- π = 3.14159…  
 
 ---
 
-## 🧩 Summary Table (Remember This)
+## 🧩 Summary Table (Must Remember)
 
-| Type       | Example   |
-| ---------- | --------- |
-| Natural    | 1, 2, 3   |
-| Whole      | 0, 1, 2   |
-| Integer    | −3, 0, 5  |
-| Rational   | 1/2, 0.25 |
-| Irrational | √2, π     |
+| Type        | Examples     |
+|------------|--------------|
+| Natural    | 1, 2, 3      |
+| Whole      | 0, 1, 2      |
+| Integer    | −3, 0, 5     |
+| Rational   | 1/2, 0.25   |
+| Irrational | √2, π        |
 
 ---
 
 ## 🧠 Step 2: Number Line (Visualization)
 
-![Image](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/integers-on-number-line-1636353092.png)
+![Number Line](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/integers-on-number-line-1636353092.png)
+![Negative to Positive Number Line](https://www.saturdaygift.com/wp-content/uploads/Empty-negative-and-positive-number-lines-landscape-PDF-SaturdayGift-1024x791.jpg)
 
-![Image](https://www.saturdaygift.com/wp-content/uploads/Empty-negative-and-positive-number-lines-landscape-PDF-SaturdayGift-1024x791.jpg)
+- Numbers increase ➡ towards the **right**
+- Numbers decrease ⬅ towards the **left**
+- **0** is the center point
 
-![Image](https://study.com/cimages/videopreview/videopreview-full/f90d30ktg1.jpg)
-
-* Numbers increase ➡ right side
-* Numbers decrease ⬅ left side
-* 0 is the **center**
-
-Example:
-
-* −3 is smaller than −1
-* 5 is greater than 2
+**Examples:**
+- −3 is smaller than −1  
+- 5 is greater than 2  
 
 ---
 
-## 🧪 Step 3: Very Simple Practice (Do This)
+## 🧪 Step 3: Very Simple Practice
 
-### Q1️⃣ Which of these are **integers**?
-
-a) −7
-b) 0
-c) 4.5
-d) 3
-
----
-
-### Q2️⃣ Which are **rational numbers**?
-
-a) 0.75
-b) √5
-c) −2/3
-d) 7
+### Q1️⃣ Which of the following are **integers**?
+a) −7  
+b) 0  
+c) 4.5  
+d) 3  
 
 ---
 
-### Q3️⃣ Arrange in ascending order:
-
-−2, 4, 0, −5, 3
-
----
-
-## 🚦Rules 
-
-* Don’t Google
-* Don’t rush
-* Think calmly
-* Write answers clearly
+### Q2️⃣ Which of the following are **rational numbers**?
+a) 0.75  
+b) √5  
+c) −2/3  
+d) 7  
 
 ---
 
+### Q3️⃣ Arrange the following in **ascending order**:
+−2, 4, 0, −5, 3  
+
+---
+
+## 🚦 Rules to Follow
+- Don’t Google  
+- Don’t rush  
+- Think calmly  
+- Write answers clearly  
+
+---
