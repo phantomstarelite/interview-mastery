@@ -208,5 +208,107 @@ They complete the work in **6 more days**.
 A is **40% more efficient** than B.
 👉 Find the ratio of their efficiencies.
 
+
+
+
+
+
+# ✅ Lesson 10 (Part 2) – Answer Check
+
+## 🔹 Q1
+
+**A can do work in 15 days, works for 5 days**
+
+```
+1-day work = 1/15
+Work done = 5/15 = 1/3
+Work left = 1 − 1/3 = 2/3
+```
+
+✅ **Your answer: 2/3 — Correct**
+
 ---
+
+## 🔹 Q2
+
+**A + B = 10 days**
+Work together for **4 days**, then **A leaves**
+B finishes remaining work in **6 days**
+
+### Step 1: Work done together
+
+```
+1-day work (A+B) = 1/10
+Work done in 4 days = 4/10 = 2/5
+```
+
+### Step 2: Work left
+
+```
+1 − 2/5 = 3/5
+```
+
+### Step 3: B alone does 3/5 work in 6 days
+
+```
+B's 1-day work = (3/5) ÷ 6 = 3/30 = 1/10
+```
+
+
+✅ **Correct answer: 10 days**
+
+
+## 🔹 Q3
+
+**A alone = 18 days**
+Works alone for **6 days**, then B joins
+Finishes in **6 more days**
+
+### Step 1: A’s work
+
+```
+1-day work of A = 1/18
+Work done in 6 days = 6/18 = 1/3
+```
+
+### Step 2: Work left
+
+```
+1 − 1/3 = 2/3
+```
+
+### Step 3: (A+B) do 2/3 work in 6 days
+
+```
+(A+B) 1-day work = (2/3) ÷ 6 = 2/18 = 1/9
+```
+
+### Step 4: Find B’s work
+
+```
+B = (A+B) − A
+B = 1/9 − 1/18 = 1/18
+```
+
+
+✅ **Correct answer: 18 days**
+
+📌 Again, you found **rate**, not **time**.
+
+---
+
+## 🔹 Q4
+
+**A is 40% more efficient than B**
+
+```
+A : B = (100 + 40) : 100 = 140 : 100 = 7 : 5
+```
+
+✅ **Your answer: 7 : 5 — Correct**
+
+---
+
+
+
 
