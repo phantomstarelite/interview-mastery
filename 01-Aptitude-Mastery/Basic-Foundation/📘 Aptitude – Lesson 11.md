@@ -1,8 +1,3 @@
-Let’s go 🚰🔥
-Welcome to **Lesson 11** — this is basically **Time & Work in disguise**, and once you see that, it becomes EASY.
-
----
-
 # 📘 Aptitude – Lesson 11 (Learning Mode)
 
 ## 🚰 Pipes & Cisterns — From Zero to Interview Level
@@ -208,14 +203,6 @@ Each cycle = 2 hours
 
 ---
 
-## 🧠 PART 8: Common Mistakes (AVOID THESE ❌)
-
-* ❌ Forgetting negative sign for outlet pipe
-* ❌ Mixing hours directly without unit work
-* ❌ Not checking if tank fills at all
-* ❌ Forgetting last cycle logic
-
----
 
 ## 🧪 PRACTICE (LEARNING MODE)
 
@@ -251,9 +238,74 @@ Filling pipe works for **1 hour**, then emptying pipe works for **1 hour**, alte
 
 ---
 
-Reply with your answers 👇
-Next, we’ll do:
+# ✅ Lesson 11 – Answer Check
 
-* **Advanced alternate-cycle tricks**
-* **Shortcut methods**
-* Then move to **Lesson 12: Time, Speed & Distance** 🚀
+## 🔹 Q1
+
+**Fill in 15 hours → 3 hours**
+
+```
+1-hour fill = 1/15
+3-hour fill = 3/15 = 1/5
+```
+
+✅ **Correct**
+
+---
+
+## 🔹 Q2 (Needs correction )
+
+**Pipe A = 12 hours, Pipe B = 18 hours**
+
+```
+1-hour fill = 1/12 + 1/18
+= (3 + 2) / 36
+= 5/36
+```
+
+```
+Time = 36/5 hours = 7.2 hours = 7 1/5 hours
+```
+
+
+✅ **Correct answer: 7 1/5 hours**
+
+📌 Small fraction addition slip — concept is right.
+
+---
+
+## 🔹 Q3
+
+**Filling = 10 hours, Emptying = 20 hours**
+
+```
+Net rate = 1/10 − 1/20
+= 1/20
+```
+
+```
+Time = 20 hours
+```
+
+✅ **Correct**
+
+---
+
+## 🔹 Q4
+
+**Alternate filling & emptying**
+
+Net work in 2 hours:
+
+```
+1/6 − 1/12 = 1/12
+```
+
+```
+Cycles needed = 12
+Total time = 12 × 2 = 24 hours
+```
+
+✅ **Correct**
+
+---
