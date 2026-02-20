@@ -1,5 +1,3 @@
-
-
 # 📘 Aptitude – Lesson 12 (Learning Mode)
 
 ## 🏃 Time, Speed & Distance — From Zero to Interview Level
