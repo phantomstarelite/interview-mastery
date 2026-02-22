@@ -212,13 +212,99 @@ A person travels **equal distances** at **40 km/hr** and **60 km/hr**.
 Two trains move at **50 km/hr** and **70 km/hr** in **opposite directions**.
 👉 Find their **relative speed**.
 
+
+
+
+# ✅ Lesson 12 – Solutions
+
 ---
 
-Reply with your answers 👇
-Next we’ll cover:
+## 🔹 Q1
 
-* **Advanced train problems**
-* **Boats & streams (full)**
-* **Circular track questions**
+A car travels **120 km in 3 hours**.
+👉 Find speed.
 
-You’re building **solid aptitude foundations**, Pratik 💪
+Formula:
+
+```
+Speed = Distance / Time
+```
+
+```
+Speed = 120 / 3 = 40 km/hr
+```
+
+✅ **Answer: 40 km/hr**
+
+---
+
+## 🔹 Q2
+
+Convert **54 km/hr** into **m/s**
+
+Use conversion:
+
+```
+km/hr × 5/18
+```
+
+```
+54 × 5/18
+= 3 × 5
+= 15 m/s
+```
+
+✅ **Answer: 15 m/s**
+
+---
+
+## 🔹 Q3
+
+Equal distances at **40 km/hr** and **60 km/hr**
+
+Use special formula:
+
+```
+Average Speed = 2xy / (x + y)
+```
+
+```
+= 2 × 40 × 60 / (40 + 60)
+= 4800 / 100
+= 48 km/hr
+```
+
+⚠ Notice:
+Average is **NOT 50**
+(very common trap)
+
+✅ **Answer: 48 km/hr**
+
+---
+
+## 🔹 Q4
+
+Two trains move at **50 km/hr** and **70 km/hr** in **opposite directions**
+
+Opposite direction rule:
+
+```
+Relative Speed = v1 + v2
+```
+
+```
+= 50 + 70 = 120 km/hr
+```
+
+✅ **Answer: 120 km/hr**
+
+---
+
+# 🎯 What You Just Mastered
+
+✔ Basic speed formula
+✔ Unit conversion
+✔ Equal distance average speed trick
+✔ Relative speed logic
+
+---
