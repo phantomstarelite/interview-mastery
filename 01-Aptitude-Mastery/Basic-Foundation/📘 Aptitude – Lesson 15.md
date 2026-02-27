@@ -199,3 +199,128 @@ Process repeated twice.
 # Solution
 
 
+# ✅ Lesson 15 – Solutions
+
+---
+
+## 🔹 Q1
+
+Mix ₹50/kg rice with ₹30/kg rice
+to get average ₹40/kg.
+
+### Use Alligation Method
+
+```
+Higher Price = 50
+Lower Price  = 30
+Average      = 40
+```
+
+Cross difference:
+
+```
+50 − 40 = 10
+40 − 30 = 10
+```
+
+Ratio:
+
+```
+10 : 10 = 1 : 1
+```
+
+✅ **Answer: 1 : 1**
+
+---
+
+## 🔹 Q2
+
+10 litres at ₹60
+20 litres at ₹40
+
+### Step 1: Total Cost
+
+```
+(10 × 60) + (20 × 40)
+= 600 + 800
+= 1400
+```
+
+### Step 2: Total Quantity
+
+```
+10 + 20 = 30 litres
+```
+
+### Step 3: Average Price
+
+```
+1400 / 30 = ₹46.67 per litre
+```
+
+✅ **Answer: ₹46.67 per litre**
+
+---
+
+## 🔹 Q3 (Replacement Once)
+
+Container has 40 litres milk.
+10 litres removed and replaced with water.
+
+### Step 1: Use Formula
+
+```
+Milk left = Q(1 − r/Q)
+```
+
+Where:
+
+```
+Q = 40
+r = 10
+```
+
+```
+Milk left = 40(1 − 10/40)
+          = 40(1 − 1/4)
+          = 40 × 3/4
+          = 30 litres
+```
+
+✅ **Answer: 30 litres milk remains**
+
+---
+
+## 🔹 Q4 (Replacement Twice 🔥)
+
+Container has 60 litres milk.
+20 litres removed and replaced.
+Process repeated twice.
+
+### Step 1: Use Formula
+
+```
+Milk left = Q(1 − r/Q)^n
+```
+
+Where:
+
+```
+Q = 60
+r = 20
+n = 2
+```
+
+```
+Milk left = 60(1 − 20/60)^2
+          = 60(1 − 1/3)^2
+          = 60(2/3)^2
+          = 60 × 4/9
+          = 240/9
+          = 26.67 litres
+```
+
+✅ **Answer: 26.67 litres milk remains**
+
+---
+
